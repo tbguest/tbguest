@@ -1,6 +1,6 @@
 # :wave: Hi! Tristan here
 
-I'm working as a Full Stack Software Developer at Luna Sea Solutions, building tools like [this app](https://lunaoceans.app/) to connect people with ocean data.
+I'm working as a Full Stack Software Developer at Luna Sea Solutions, building tools like [this app](https://lunaocean.app/) to connect people with ocean data.
 
 My most-used stack right now includes Next.js with TypeScript, Node.js, MongoDB, and AWS. I also work frequently with Python, and I've recently enjoyed working a bit more with GraphQL.
 
