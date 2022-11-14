@@ -1,6 +1,6 @@
 # :wave: Hi! Tristan here
 
-I work as a software developer at Luna Sea Solutions, building tools like [this app](https://lunaocean.app/) to connect people with ocean data.
+I work as a software developer. Feel free to explore some of the projects I've been involved with via my [portfolio site](https://tristanguest.dev/projects) or here on GitHub.
 
 My most-used stack includes Next.js with TypeScript, Node.js, MongoDB, and AWS. I also work frequently with Python, and I've recently enjoyed getting acquainted tRPC as part of the T3 stack.
 
